@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://twitter.com/ulukayalperen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ulukayalperen" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/alperen-ulukaya-85b812258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alperen ulukaya" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23751669" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23751669" height="30" width="40" /></a> <a href="[https://academy.patika.dev/profile](https://academy.patika.dev/@cengalperenn)" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXNF_gu6xwEKSJa8yu103oQFgF-2FHenPc6NUJ75J4QSEg8iAsp8K5Wi-92cdV4QYIWgQ&usqp=CAU" alt="AlperenUlukaya" height="30" width="60"/> </a>
+<a href="https://stackoverflow.com/users/23751669" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23751669" height="30" width="40" /></a> <a href="[https://academy.patika.dev/profile](https://academy.patika.dev/@cengalperenn)" target="blank"><img align="center" src="https://academy.patika.dev/tr/dashboard" alt="AlperenUlukaya" height="30" width="60"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
