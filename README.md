@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Alperen</h1>
 <h3 align="center">A passionate computer engineering student from Türkiye.</h3>
 
-- 🌱 I’m currently learning **java, javascript and Harvard CS50**
+- 🌱 I’m currently learning **java + springBoot and essential Computer Science principles **
 
 - 📫 How to reach me:  **alperenulukaya07@gmail.com**
 
