@@ -10,10 +10,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ulukayalperen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ulukayalperen" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/alperen-ulukaya-85b812258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alperen ulukaya" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23751669" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23751669" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/alperen-ulukaya-85b812258/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alperen ulukaya" height="30" width="40" />
+  </a>
+  <a href="https://academy.patika.dev/@cengalperenn" target="blank">
+    <img align="center" src="https://avatars.githubusercontent.com/u/68342288?s=200&v=4" alt="patika.dev" height="30" width="30" />
+  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
