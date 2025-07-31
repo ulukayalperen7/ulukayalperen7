@@ -15,9 +15,6 @@
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
-  </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" alt="C" width="40" height="40"/>
   </a>
@@ -68,6 +65,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ulukayalperen7&show_icons=true&locale=en" alt="ulukayalren" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ulukayalperen7&" alt="ulukayalpenen7" /></p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
