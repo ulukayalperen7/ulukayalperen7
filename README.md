@@ -56,13 +56,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/alperen-ulukaya-85b812258/" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/primer/octicons/main/icons/link-24.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/alperen-ulukaya-85b812264/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://ulukayalperen7.github.io/.com/" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/primer/octicons/main/icons/link-24.svg" alt="Website" height="30" width="30" />
+  <a href="https://alukaya.dev" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=zrTptiWiMTtu&format=png&color=000000" alt="Website" width="40" height="40"/>
   </a>
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ulukayalperen7&show_icons=true&locale=en&layout=compact" alt="ulukayalperen7" /></p>
 
