@@ -56,10 +56,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/alperen-ulukaya-85b812264/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/alperenulukaya/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://alukaya.dev" target="_blank" rel="noreferrer">
+  <a href="https://ulukayalperen7.github.io/.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=100&id=zrTptiWiMTtu&format=png&color=000000" alt="Website" width="40" height="40"/>
   </a>
 </p>
