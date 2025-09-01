@@ -5,7 +5,7 @@
 
 - 📫 How to reach me:  **[alperenulukaya07@gmail.com](mailto:alperenulukaya07@gmail.com)**
 
-- ⚡ Fun fact: **someone who likes to have fun, travel and of course coding**
+- 🚀 Passionate about AI innovations and their real-world impact
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
