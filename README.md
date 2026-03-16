@@ -48,7 +48,7 @@
   <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/fluent/1200/github-copilot.jpg" alt="github copilot" width="40" height="40"/>
   </a>
-  <a href="https://xkcd.com/353/" target="_blank" rel="noreferrer">
+  <a href="https://antigravity.google/" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQifZtBrs7pE9218mk-USoyVVQaeLMf2x_5Vw&s" alt="antigravity" width="40" height="40"/>
   </a>
 </p>
