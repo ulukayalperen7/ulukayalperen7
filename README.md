@@ -7,6 +7,8 @@
 
 - 🚀 Passionate about AI innovations and their real-world impact.
 
+- 🌐 **Portfolio & Website:** **[alperenulukaya.com](https://alperenulukaya.com/)**
+
 - 📫 How to reach me:  **[alperenulukaya07@gmail.com](mailto:alperenulukaya07@gmail.com)**
 
 
@@ -42,6 +44,12 @@
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer">
+    <img src="https://api.iconify.design/mdi:github-copilot.svg?color=%23ffffff" alt="github copilot" width="40" height="40"/>
+  </a>
+  <a href="https://xkcd.com/353/" target="_blank" rel="noreferrer">
+    <img src="https://api.iconify.design/lucide:rocket.svg?color=%23ffffff" alt="antigravity" width="40" height="40"/>
   </a>
 </p>
 
